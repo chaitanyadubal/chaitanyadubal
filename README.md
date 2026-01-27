@@ -146,7 +146,7 @@ $ ls -la ~/projects/featured
 
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/images/e35b1b4e-b5c1-44e9-aa06-0ece5c58b78e/image.png" width="150" alt="Google Analytics Certification" />
+<img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150" alt="Google Data Analytics Professional Certificate" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Python Certification" />
 &nbsp;&nbsp;&nbsp;
