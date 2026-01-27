@@ -12,8 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Cloud+Infrastructure;DSA+Grind+%7C+LeetCode+%7C+Continuous+Learning" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dubal/)
 
 </div>
 
@@ -145,25 +144,18 @@ $ ls -la ~/projects/featured
 
 ### 🎓 Professional Certifications
 
-<!-- Add your actual Credly badge links here -->
-<!-- Example format: -->
-<!-- 
-<a href="YOUR-CREDLY-BADGE-URL">
-  <img src="YOUR-BADGE-IMAGE-URL" width="150" alt="Certification Name" />
-</a>
--->
-
-<!-- Placeholder badges - replace with your actual certifications -->
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Solutions Architect" />
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" alt="CKA: Certified Kubernetes Administrator" />
+<img src="https://images.credly.com/images/e35b1b4e-b5c1-44e9-aa06-0ece5c58b78e/image.png" width="150" alt="Google Analytics Certification" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" alt="Azure Administrator Associate" />
+<img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Python Certification" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150" alt="Azure Data Fundamentals" />
 
 #### 📊 Certification Stats
-![Certifications](https://img.shields.io/badge/Certifications-In_Progress-00ff00?style=for-the-badge&logo=acclaim&logoColor=white)
-![Learning Path](https://img.shields.io/badge/Currently_Studying-AWS%20%7C%20Kubernetes-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Goal](https://img.shields.io/badge/2026_Goal-5+_Certifications-yellow?style=for-the-badge&logo=target&logoColor=white)
+![Certifications](https://img.shields.io/badge/Active_Certifications-4-00ff00?style=for-the-badge&logo=acclaim&logoColor=white)
+![Learning Path](https://img.shields.io/badge/Currently_Studying-AWS%20SAA%20%7C%20Kubernetes-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Goal](https://img.shields.io/badge/2026_Goal-Cloud%20%2B%20DevOps%20Expert-yellow?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
 
@@ -225,8 +217,7 @@ $ echo "contact_info" | base64 -d
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanya--dubal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dubal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
