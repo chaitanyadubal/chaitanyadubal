@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+DevOps+Enthusiast+%7C+Problem+Solver;Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Cloud+Infrastructure;DSA+Grind+%7C+LeetCode+%7C+Continuous+Learning" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chaitanyadubal.github.io-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitanyadubal.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dubal/)
 
 </div>
@@ -215,7 +215,7 @@ $ ./dsa-tracker.sh --stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-yourusername-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-cvdubal450-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cvdubal450/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-yourusername-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
 
 </div>
@@ -232,7 +232,7 @@ $ echo "contact_info" | base64 -d
 
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanya--dubal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-dubal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chaitanyadubal.github.io-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chaitanyadubal.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
