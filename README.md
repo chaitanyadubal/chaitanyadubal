@@ -144,7 +144,21 @@ $ ls -la ~/projects/featured
 
 ### 🎓 Professional Certifications
 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
+<a href="https://www.credly.com/badges/db2d8ba6-dad5-47ee-a983-6c6d03b50fc7/public_url">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/88ada71b-0694-42aa-bc2e-ee3493fbb821/public_url">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/46a685c6-8fa1-45f4-b295-2984a10dd365/public_url">
+  <img src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="150" alt="AWS Academy Graduate - Cloud Architecting" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/099284d5-36d0-475c-8747-129637eb91c8/public_url">
+  <img src="https://images.credly.com/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" width="150" alt="AWS Academy Graduate - Cloud Security Foundations" />
+</a>
 &nbsp;&nbsp;&nbsp;
 <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150" alt="Google Data Analytics Professional Certificate" />
 &nbsp;&nbsp;&nbsp;
@@ -153,8 +167,8 @@ $ ls -la ~/projects/featured
 <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150" alt="Azure Data Fundamentals" />
 
 #### 📊 Certification Stats
-![Certifications](https://img.shields.io/badge/Active_Certifications-4-00ff00?style=for-the-badge&logo=acclaim&logoColor=white)
-![Learning Path](https://img.shields.io/badge/Currently_Studying-AWS%20SAA%20%7C%20Kubernetes-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Certifications](https://img.shields.io/badge/Active_Certifications-7-00ff00?style=for-the-badge&logo=acclaim&logoColor=white)
+![Learning Path](https://img.shields.io/badge/Currently_Studying-Terraform%20%7C%20CKA-blue?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![Goal](https://img.shields.io/badge/2026_Goal-Cloud%20%2B%20DevOps%20Expert-yellow?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
@@ -172,7 +186,7 @@ $ cat /var/log/current-projects.log
 - 📚 **Learning:** Advanced Kubernetes, AWS Solutions Architecture, Go programming
 - 🚀 **Building:** Personal homelab with Docker & K8s for hands-on practice
 - 📝 **Contributing:** Open source DevOps tools and documentation
-- 🎯 **Goal:** AWS Solutions Architect & CKA certifications in 2026
+- 🎯 **Goal:** CKA & HashiCorp Terraform Associate certifications in 2026 ✅ AWS SAA — Done!
 
 ---
 
